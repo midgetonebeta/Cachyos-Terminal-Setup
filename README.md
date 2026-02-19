@@ -1,5 +1,14 @@
-<<<<<<< HEAD
 # CachyOS Terminal Setup
+
+![CachyOS](https://img.shields.io/badge/CachyOS-Arch_Based-blue?logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?logo=linux&logoColor=black)
+![Fish](https://img.shields.io/badge/Fish-Shell-4EAA25?logo=fish&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-Shell-F15A24?logo=zsh&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?logo=gnu-bash&logoColor=white)
+![Oh My Posh](https://img.shields.io/badge/Oh_My_Posh-Themed-blueviolet?logo=powershell&logoColor=white)
+![License](https://img.shields.io/github/license/midgetonebeta/Cachyos-Terminal-Setup)
+![Repo Size](https://img.shields.io/github/repo-size/midgetonebeta/Cachyos-Terminal-Setup?logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/midgetonebeta/Cachyos-Terminal-Setup?style=social)](https://github.com/midgetonebeta/Cachyos-Terminal-Setup/stargazers)
 
 A pair of scripts to set up and reset a fully customized terminal environment on CachyOS, featuring Oh My Posh theming across Fish, Zsh and Bash.
 
@@ -144,7 +153,3 @@ Files inside:
 | `zsh-autosuggestions` | Fish-like suggestions for Zsh |
 | `zsh-syntax-highlighting` | Syntax highlighting for Zsh |
 | `zsh-autocomplete` | Real-time dropdown autocomplete for Zsh |
-=======
-# Cachyos-Terminal-Setup
-CaschyOs-Oh-My-Posh install and removal.
->>>>>>> 3f72797bab3d64ef0c91604d3227b0dfea4b5185
