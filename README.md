@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CachyOS Terminal Setup
 
 A pair of scripts to set up and reset a fully customized terminal environment on CachyOS, featuring Oh My Posh theming across Fish, Zsh and Bash.
@@ -143,3 +144,7 @@ Files inside:
 | `zsh-autosuggestions` | Fish-like suggestions for Zsh |
 | `zsh-syntax-highlighting` | Syntax highlighting for Zsh |
 | `zsh-autocomplete` | Real-time dropdown autocomplete for Zsh |
+=======
+# Cachyos-Terminal-Setup
+CaschyOs-Oh-My-Posh install and removal.
+>>>>>>> 3f72797bab3d64ef0c91604d3227b0dfea4b5185
