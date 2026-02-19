@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CachyOS Terminal Setup
 
 A pair of scripts to set up and reset a fully customized terminal environment on CachyOS, featuring Oh My Posh theming across Fish, Zsh and Bash.
@@ -129,6 +129,15 @@ Files inside:
 - The reset script does **not** uninstall any packages, it only restores config files
 
 ---
+## 📸 Screenshots
+
+### File Tree
+
+![File Tree](Screenshots/2026-02-19_14-22.png)
+
+### Running Setup
+
+![Running Setup](Screenshots/2026-02-19_14-26.png)
 
 ## 📦 Packages Installed by Setup Script
 
